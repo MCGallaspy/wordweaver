@@ -31,12 +31,4 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           folder: dist/word-weaver # The folder the action should deploy.
-
-  on-failure:
-    name: Validation Failed
-    runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
-    steps:
-      - run: echo "Test conclusion was failure. Deployment cancelled."
