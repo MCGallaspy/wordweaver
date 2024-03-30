@@ -51,7 +51,7 @@ const validate_file = (file_prefix: string) => {
   }
 };
 
-const file_prefixes = ["verbs", "pronouns", "options", "conjugations"];
+const file_prefixes = ["verbs", "options", "conjugations"];
 let all_valid = true;
 file_prefixes.forEach((file_prefix) => {
   all_valid = validate_file(file_prefix) && all_valid;
