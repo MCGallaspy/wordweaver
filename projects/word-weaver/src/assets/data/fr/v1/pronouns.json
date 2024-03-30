@@ -2,51 +2,166 @@
   {
     "person": "1",
     "number": "SG",
+    "gender": "",
+    "inclusivity": "",
+    "role": "",
+    "value": "ke",
+    "gloss": "I",
+    "objectGloss": "Me myself",
     "tag": "1-sg"
   },
   {
     "person": "2",
     "number": "SG",
+    "gender": "",
+    "inclusivity": "",
+    "role": "",
+    "value": "se",
+    "gloss": "You",
+    "objectGloss": "You",
     "tag": "2-sg"
   },
   {
     "person": "3",
     "number": "SG",
-    "gender": "F",
-    "tag": "3-sg-f"
-  },
-  {
-    "person": "3",
-    "number": "SG",
     "gender": "M",
+    "inclusivity": "",
+    "role": "",
+    "value": "ra",
+    "gloss": "He",
+    "objectGloss": "Him",
     "tag": "3-sg-m"
   },
   {
     "person": "3",
     "number": "SG",
+    "gender": "F",
+    "inclusivity": "",
+    "role": "",
+    "value": "ye",
+    "gloss": "She",
+    "objectGloss": "Her",
+    "tag": "3-sg-fz"
+  },
+  {
+    "person": "3",
+    "number": "SG",
     "gender": "N",
-    "tag": "3-sg-n"
+    "inclusivity": "",
+    "role": "",
+    "value": "ka",
+    "gloss": "It",
+    "objectGloss": "It",
+    "tag": "3-sg-fi"
+  },
+  {
+    "person": "1",
+    "number": "DL",
+    "gender": "",
+    "inclusivity": "excl",
+    "role": "",
+    "value": "yakeni",
+    "gloss": "S.o and I",
+    "objectGloss": "S.o and me",
+    "tag": "1-dl-excl"
+  },
+  {
+    "person": "1",
+    "number": "DL",
+    "gender": "",
+    "inclusivity": "incl",
+    "role": "",
+    "value": "teni",
+    "gloss": "You and I",
+    "objectGloss": "You and me",
+    "tag": "1-dl-incl"
+  },
+  {
+    "person": "2",
+    "number": "DL",
+    "gender": "",
+    "inclusivity": "",
+    "role": "",
+    "value": "seni",
+    "gloss": "You two",
+    "objectGloss": "You two",
+    "tag": "2-dl"
+  },
+  {
+    "person": "3",
+    "number": "DL",
+    "gender": "F",
+    "inclusivity": "",
+    "role": "",
+    "value": "keni",
+    "gloss": "They (two females or neuter)",
+    "objectGloss": "They (two females or neuter)",
+    "tag": "3-dl-f"
+  },
+  {
+    "person": "3",
+    "number": "DL",
+    "gender": "M",
+    "inclusivity": "",
+    "role": "",
+    "value": "ni",
+    "gloss": "They (two males or mixed)",
+    "objectGloss": "They (two males or mixed)",
+    "tag": "3-dl-m"
   },
   {
     "person": "1",
     "number": "PL",
-    "tag": "1-pl"
+    "gender": "",
+    "inclusivity": "excl",
+    "role": "",
+    "value": "yakwa",
+    "gloss": "I & they",
+    "objectGloss": "Me & them",
+    "tag": "1-pl-excl"
+  },
+  {
+    "person": "1",
+    "number": "PL",
+    "gender": "",
+    "inclusivity": "incl",
+    "role": "",
+    "value": "tewa",
+    "gloss": "You all and I",
+    "objectGloss": "You all and me",
+    "tag": "1-pl-incl"
   },
   {
     "person": "2",
     "number": "PL",
+    "gender": "",
+    "inclusivity": "",
+    "role": "",
+    "value": "sewa",
+    "gloss": "You all",
+    "objectGloss": "You all",
     "tag": "2-pl"
   },
   {
     "person": "3",
     "number": "PL",
-    "gender": "M",
-    "tag": "3-pl-m"
+    "gender": "F",
+    "inclusivity": "",
+    "role": "",
+    "value": "konti",
+    "gloss": "They (female or neuter)",
+    "objectGloss": "Them (female or neuter)",
+    "tag": "3-pl-f"
   },
   {
     "person": "3",
     "number": "PL",
-    "gender": "F",
-    "tag": "3-pl-f"
+    "gender": "M",
+    "inclusivity": "",
+    "role": "",
+    "value": "rati",
+    "gloss": "They (males or mixed)",
+    "objectGloss": "Them (males or mixed)",
+    "tag": "3-pl-m"
   }
 ]
