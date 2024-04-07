@@ -628,5 +628,200 @@
       [2, "ⁿgyah", ["verb_root", "ⁿgyah"]],
       [3, "aʔ", ["aspect", "punctual"]]
     ]
+  },
+  {
+	  "input": {
+		  "root": "ⁿgyah",
+		  "agent": "1-sg",
+		  "patient": "",
+		  "option": "habitual"
+		},
+		"output": [
+		  [0, "ye", ["prepronominal_prefix", "ye"]],
+		  [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+		  [2, "aš", ["aspect", "habitual"]]
+		]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "2-sg",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "še", ["prepronominal_prefix", "hše"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+    {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-sg-m",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "ha", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-sg-fz",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "ya", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-sg-fi",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "e", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "1-dl-excl",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "ai", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "1-dl-incl",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "ti", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "2-dl",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "tsi", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-dl-m",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "hi", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-dl-f",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "i", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "1-pl-excl",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "awa", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "1-pl-incl",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "kwa", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "2-pl",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "skwa", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-pl-m",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "hati", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "ⁿgyah",
+      "agent": "3-pl-f",
+      "patient": "",
+      "option": "habitual"
+    },
+    "output": [
+      [0, "wati", ["prepronominal_prefix", "ha"]],
+      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+      [2, "aš", ["aspect", "habitual"]]
+    ]
   }
 ]
