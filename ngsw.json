@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711923107501,
+  "timestamp": 1712521526412,
   "index": "/wordweaver/index.html",
   "assetGroups": [
     {
@@ -88,8 +88,8 @@
     "/wordweaver/582.e1724b94d62aa0ad.js": "54918e879aaec4c212575f14af8f8dd73327edd1",
     "/wordweaver/701.bc488aef2a01c42e.js": "6e4775ea25c53e7f0fbe7673463d8518b00bffb8",
     "/wordweaver/980.adfe95425036accc.js": "5341d00e391e3f17defb8193f010df7ea1743f33",
-    "/wordweaver/assets/data/fr/v1/conjugations.json": "755aea45ea5ca374c605b44193bd57aeb7f486e6",
-    "/wordweaver/assets/data/fr/v1/conjugations.json.gz": "8f15f58358cd4991580d31048c44c7c2576c7f43",
+    "/wordweaver/assets/data/fr/v1/conjugations.json": "5c8087fea825673a247d287ab40feac0243feab0",
+    "/wordweaver/assets/data/fr/v1/conjugations.json.gz": "4677e4f482bd5af053e6038ef1c76a44cdc676da",
     "/wordweaver/assets/data/fr/v1/i18n/en.json": "d76b5b71a8cd4f7bea8b32d03681eec7aa4b6d23",
     "/wordweaver/assets/data/fr/v1/i18n/fr.json": "e460a1885a5a8ef8343324e37167d584223d5380",
     "/wordweaver/assets/data/fr/v1/options.json": "d38124b1f1b988144e0a487c02e3e1def3c3ef22",
