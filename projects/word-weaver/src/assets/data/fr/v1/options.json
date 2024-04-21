@@ -18,5 +18,10 @@
     "tag": "optative",
     "type": "aspect",
     "classes": ["optative", "punctual"]
+  },
+  {
+    "tag": "purposive",
+    "type": "aspect",
+    "classes": ["purposive"]
   }
 ]
