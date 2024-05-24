@@ -1,14 +1,17 @@
 {
   "ww-data": {
     "verbs": {
-      "ⁿgyah": "eat"
+      "ⁿgyah": "eat",
+      "e": "walk",
+      "atǫ": "happen"
     },
     "options": {
       "items": {
         "habitual": "Habitual",
         "factual": "Factual-Punctual",
         "future": "Future-Punctual",
-        "optative": "Optative-Punctual"
+        "optative": "Optative-Punctual",
+        "purposive": "Purposive"
       },
       "types": {
         "aspect": "aspect"
@@ -20,8 +23,8 @@
         "2-sg": "You",
         "3-sg-m": "He",
         "3-sg-fz": "She/It",
-        "3-sg-fi": "One/They/It",
-        "1-dl-excl": "S.o and I",
+        "3-sg-fi": "Someone/She/They/It",
+        "1-dl-excl": "Someone and I",
         "1-dl-incl": "You and I",
         "2-dl": "You two",
         "3-dl-f": "They two (feminine)",
