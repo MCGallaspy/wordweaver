@@ -630,17 +630,17 @@
     ]
   },
   {
-    "input": {
-      "root": "ⁿgyah",
-      "agent": "1-sg",
-      "patient": "",
-      "option": "habitual"
-    },
-    "output": [
-      [0, "ye", ["prepronominal_prefix", "ye"]],
-      [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
-      [2, "aš", ["aspect", "habitual"]]
-    ]
+      "input": {
+          "root": "ⁿgyah",
+          "agent": "1-sg",
+          "patient": "",
+          "option": "habitual"
+        },
+        "output": [
+          [0, "ye", ["prepronominal_prefix", "ye"]],
+          [1, "ⁿgyah", ["verb_root", "ⁿgyah"]],
+          [2, "aš", ["aspect", "habitual"]]
+        ]
   },
   {
     "input": {
@@ -655,7 +655,7 @@
       [2, "aš", ["aspect", "habitual"]]
     ]
   },
-  {
+    {
     "input": {
       "root": "ⁿgyah",
       "agent": "3-sg-m",
@@ -824,7 +824,7 @@
       [2, "aš", ["aspect", "habitual"]]
     ]
   },
-
+  
   {
     "input": {
       "root": "e",
@@ -849,6 +849,34 @@
     },
     "output": [
       [0, "aʔ", ["factual", "aʔ"]],
+      [1, "w", ["prepronominal_prefix", "w"]],
+      [2, "atǫ", ["verb_root", "atǫ"]],
+      [3, "ʔ", ["aspect", "punctual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "atǫ",
+      "agent": "3-sg-fz",
+      "patient": "",
+      "option": "future"
+    },
+    "output": [
+      [0, "e", ["future", "e"]],
+      [1, "w", ["prepronominal_prefix", "w"]],
+      [2, "atǫ", ["verb_root", "atǫ"]],
+      [3, "ʔ", ["aspect", "punctual"]]
+    ]
+  },
+  {
+    "input": {
+      "root": "atǫ",
+      "agent": "3-sg-fz",
+      "patient": "",
+      "option": "optative"
+    },
+    "output": [
+      [0, "a:", ["optative", "a:"]],
       [1, "w", ["prepronominal_prefix", "w"]],
       [2, "atǫ", ["verb_root", "atǫ"]],
       [3, "ʔ", ["aspect", "punctual"]]
