@@ -183,7 +183,7 @@ export const META_DATA: Meta = {
   contributors: [
     {
       name: "Michael Collins Gallaspy",
-      title: "aʔhahšrǫgyaʔ ⁿdaeʔ website",
+      title: "ahahšrǫgyaʔ ⁿdaeʔ website",
       text: "nęh skat aʔwatǫʔ ǫmaʔⁿdiyǫraʔ",
       img: false,
     },
