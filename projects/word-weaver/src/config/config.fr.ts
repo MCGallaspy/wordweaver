@@ -182,9 +182,9 @@ export interface Meta {
 export const META_DATA: Meta = {
   contributors: [
     {
-      name: "Your Name",
-      title: "Lead Developer",
-      text: "Some text about you, the developer.",
+      name: "Michael Collins Gallaspy",
+      title: "aʔhahšrǫgyaʔ ⁿdaeʔ website",
+      text: "nęh skat aʔwatǫʔ ǫmaʔⁿdiyǫraʔ",
       img: false,
     },
   ],
