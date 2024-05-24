@@ -2,7 +2,8 @@
   "ww-data": {
     "verbs": {
       "ⁿgyah": "eat",
-	  "e": "walk"
+      "e": "walk",
+      "atǫ": "happen"
     },
     "options": {
       "items": {
@@ -10,7 +11,7 @@
         "factual": "Factual-Punctual",
         "future": "Future-Punctual",
         "optative": "Optative-Punctual",
-		"purposive": "Purposive"
+        "purposive": "Purposive"
       },
       "types": {
         "aspect": "aspect"
